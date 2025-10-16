@@ -1,0 +1,57 @@
+/* .collectionLink{
+    line-height: 200%;
+}
+
+.collectionLink:hover{
+color:#e6ae7d;
+
+} */
+
+.collectionLink {
+  line-height: 200%;
+  color: black;
+  display: block;
+  text-decoration: none;
+}
+
+.collectionLink:hover {
+  color: #e6ae7d;
+}
+
+.carousel-caption-box {
+  color: #e6ae7d;
+  border: solid 6px #e6ae7d;
+  width: 60%;
+  margin: auto;
+}
+
+.search-section {
+  background-color: #ececec;
+  padding: 10px 0;
+}
+
+.product-slider {
+  scrollbar-width: thin;
+  scrollbar-color: #e6ae7d transparent;
+}
+
+.product-card {
+  min-width: 200px;
+  max-width: 200px;
+}
+
+.mainColor {
+  background-color: #e6ae7d;
+  color: white;
+}
+
+.mainColorBtn {
+  background-color: #e6ae7d;
+  color: white;
+  border: none;
+}
+
+.mainColorBtn:hover {
+  background-color: #d7975d;
+  color: white;
+}

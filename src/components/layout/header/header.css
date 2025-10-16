@@ -1,0 +1,10 @@
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+.mainColor
+{
+    background-color: #e6ae7d;
+    color: #fff;
+}

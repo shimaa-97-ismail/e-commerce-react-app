@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footerLink:hover{
+    color: #e6ae7d;
+}
+.lineHighet{
+    line-height: 1.6;
+}
+.socialIcon{
+    border:black 1px solid; 
+}
+.socialIcon:hover{
+color: #e6ae7d;
+border:#e6ae7d 1px solid;
+}
+    

@@ -1,0 +1,15 @@
+#submitBtn{
+   background-color: black;
+   border: 0px;
+}
+#submitBtn:hover{
+    background-color: #e6ae7d;
+}
+
+#mainBtn{
+    background-color: #e6ae7d;
+    border: 0px;
+}
+#mainBtn:hover{
+    background-color: black;
+}
